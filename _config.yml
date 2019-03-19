@@ -1,0 +1,8 @@
+permalink: /:year/:month/:day/:title
+title: "日々駄文"
+name: link-forte
+email: s2.tsukimi+github@gmail.com
+baseurl: "/blog"
+url: "https://link-forte.github.io"
+
+markdown: kramdown
